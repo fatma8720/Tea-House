@@ -24,7 +24,7 @@ Store in meduim size
 
 
 
-Store in smasize 
+Store in small size 
 
 ![Store small](https://github.com/fatma8720/Tea-House/blob/main/ReadmeImages/Store%20small.png)
 
